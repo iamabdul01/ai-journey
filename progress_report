@@ -1,0 +1,80 @@
+Day 1 - March 9, 2026
+✅ Fixed Python PATH issue on Windows
+✅ Installed numpy, pandas, matplotlib, jupyter
+✅ Built 5 functions from scratch — all outputs correct
+
+Day 2 - March 10, 2026
+✅ Understood classes, instances and methods
+✅ Built a Fighter class with 4 working methods
+✅ Debugged duplicate call issue independently
+
+Day 3 - March 11, 2026
+✅ Understood why NumPy beats plain Python lists
+✅ Worked with 2D arrays — shape, slicing, indexing
+✅ Calculated means and sums across rows and columns
+✅ Built fighter_stats array independently
+
+Day 4 - March 12, 2026
+✅ Built DataFrames from scratch with Pandas
+✅ Filtering, sorting, adding columns
+✅ Loaded a real CSV dataset
+✅ Performed EDA on Titanic data
+✅ Found missing values and cleaned them
+✅ Extracted real insights from data
+
+Day 5 - March 13, 2026
+✅ Fixed Matplotlib backend issue on Windows
+✅ Generated 4 real charts from Titanic data
+✅ Read and interpreted data visualizations
+✅ Understood age distribution histograms
+✅ Debugged case sensitivity and file path issues
+
+Day 6 - March 16, 2026
+✅ Advanced GroupBy — multiple columns
+✅ Feature Engineering — FamilySize & IsAlone
+✅ Age binning with pd.cut()
+✅ Extracted deep insights from Titanic data
+
+Day 7 - March 17, 2026
+✅ Merged two datasets with pd.merge()
+✅ Understood left vs right joins
+✅ Full data cleaning pipeline
+✅ Used lambda + apply() for feature engineering
+✅ Handled division by zero edge case
+
+Day 8 - March 18, 2026
+PROJECT: World Happiness Report 2019 Analysis
+
+DATASET
+- 156 countries, 9 columns, zero missing values
+
+KEY FINDINGS
+- Top 10 happiest countries are almost entirely Scandinavian/Western nations
+- Bottom 10 are mostly conflict zones and Sub-Saharan Africa
+- Most countries score between 4-6 happiness (normal distribution)
+- Strong positive correlation between GDP and happiness score
+- High freedom and low corruption = higher happiness
+
+CHARTS BUILT
+- Histogram — happiness score distribution across 156 countries
+- Horizontal bar chart — top 10 happiest countries
+- Scatter plot — GDP per capita vs happiness score
+
+SKILLS USED
+- pd.read_csv(), df.head(), df.shape, df.columns
+- df.sort_values(), df.isnull().sum()
+- matplotlib — hist, barh, scatter
+- plt.figure(), plt.savefig(), plt.close()
+- Data interpretation and storytelling
+
+MILESTONE
+First solo data analysis project completed and pushed to GitHub
+with zero hand holding on the analysis itself
+
+
+Day 9 - March 19, 2026
+✅ Full independent EDA on Titanic dataset
+✅ Answered 6 analytical questions solo
+✅ Built 4+ charts
+✅ Discovered family size sweet spot
+✅ Identified best and worst survival combinations
