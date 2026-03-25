@@ -167,3 +167,20 @@ Day 11 - March 23, 2026
 ✅ Mean, median, mode, variance, std deviation
 ✅ Normal distribution and 68-95-99.7 rule
 ✅ Read and interpreted a correlation heatmap
+
+Day 12 - March 24, 2026
+✅ Hypothesis testing with t-tests
+✅ Understood p-values and statistical significance
+✅ Proved fare genuinely affected Titanic survival
+✅ Built a complete feature significance table
+✅ Understood difference between statistical 
+   and practical significance
+
+
+Day 13 - March 25, 2026
+✅ Understood y = mx + b intuitively
+✅ Implemented gradient descent from scratch
+✅ Watched loss drop from 6276 to 2.17
+✅ Built and visualized a regression line
+✅ Made real predictions with a self built model
+✅ Understood model limitations
