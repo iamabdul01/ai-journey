@@ -184,3 +184,14 @@ Day 13 - March 25, 2026
 ✅ Built and visualized a regression line
 ✅ Made real predictions with a self built model
 ✅ Understood model limitations
+
+
+Day 14 - March 26, 2026
+✅ Understood train/test split (80/20)
+✅ Trained first sklearn model
+✅ Learned MSE, RMSE, R² metrics
+✅ Discovered linear regression is wrong 
+   for classification
+✅ Proved feature engineering improves 
+   model performance by 13.4%
+✅ Encoded categorical variable (Sex)
